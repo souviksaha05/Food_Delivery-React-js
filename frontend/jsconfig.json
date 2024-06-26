@@ -1,7 +1,6 @@
-// Auto import suggestions
 {
     "compilerOptions": {
-        "moduleResolution": "node"
+      "moduleResolution": "node"
     },
     "include": ["src"]
-}
+  }
